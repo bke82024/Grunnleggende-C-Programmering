@@ -7,7 +7,7 @@ class Program
         Console.WriteLine("Hello World!");
 int randomNumber = 10;
 Console.WriteLine(randomNumber);
-string randomText = ("Send hjelp");
+string randomText = ("Send help");
 Console.WriteLine(randomText);
 double randomDecimal = 12.5;
 Console.WriteLine(randomDecimal);
